@@ -1,0 +1,46 @@
+## Ignore MetaTrader temporary files and examples functions
+
+
+*.ex4
+
+MQL4/Files
+MQL4/Images
+MQL4/Indicators
+MQL4/Libraries
+MQL4/Logs
+MQL4/Presets
+MQL4/Projects
+MQL4/Shared Projects
+
+MQL4/Experts/Archives
+
+MQL4/Experts/MACD Sample.*
+MQL4/Experts/Moving Average.*
+MQL4/Experts/mqlcache.dat
+
+MQL4/Include/Archives
+MQL4/Include/Arrays
+MQL4/Include/Canvas
+MQL4/Include/ChartObjects
+MQL4/Include/Charts
+MQL4/Include/Controls
+MQL4/Include/Files
+MQL4/Include/Indicators
+MQL4/Include/Strings
+MQL4/Include/Tools
+
+MQL4/Include/MovingAverages.mqh
+MQL4/Include/Object.mqh
+MQL4/Include/stderror.mqh
+MQL4/Include/stdlib.mqh
+MQL4/Include/StdLibErr.mqh
+MQL4/Include/Test.mqh
+MQL4/Include/WinUser32.mqh
+
+MQL4/Scripts/Archives
+MQL4/Scripts/Examples
+
+MQL4/Scripts/PeriodConverter.*
+MQL4/Scripts/mqlcache.dat
+
+
